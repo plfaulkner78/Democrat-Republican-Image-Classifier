@@ -4,7 +4,7 @@ Convolutional neural networks are powerful machine learning models that can achi
 
 Since we were in the midst of an election season, I started to wonder whether or not it would be possible to determine someone’s political leanings based on his or her appearance alone. To answer this question, I built an image classifier trained on images of politicians with the hope that the model would be able to determine whether someone is a Democrat or a Republican based on his or her face alone. To train this model, I used the images of every member of Congress, the 435 members of the House and the 100 senators (plus some non-voting House members).
 
-#### To recreate:
+#### [To recreate my work]:
 
 The code creating the dataset and training the model can be found in the Jupyter notebook titled "Pretrained Xception Model".
 
